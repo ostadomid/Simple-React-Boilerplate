@@ -11,7 +11,7 @@ Terminal 2
 -w : watch for changes     -d : map files for debugging
 **
 
-#Instruction from scratch : 
+#Instructions from scratch : 
 >npm init
 
 >npm i --save **express** **webpack** **react** **react-dom** 
