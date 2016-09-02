@@ -10,6 +10,7 @@
 
 # :two: Webpack Configuration
 
+> :arrow_right: webpack.config.js
 
 ```javascript
 module.exports = {
