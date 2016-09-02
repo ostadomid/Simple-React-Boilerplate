@@ -10,7 +10,7 @@
 
 # :two: Webpack Configuration
 
-> :arrow_right: webpack.config.js
+ :small_blue_diamond: webpack.config.js :small_blue_diamond:
 
 ```javascript
 module.exports = {
