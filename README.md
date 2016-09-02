@@ -1,5 +1,4 @@
-#Instructions from scratch : 
----
+# :one: Instructions from scratch : 
 
 
 >npm i --save     ***express***   ***webpack***    ***react***    ***react-dom***
@@ -9,8 +8,8 @@
 >npm i ***nodemon*** -g
 
 
-#Webpack Configuration
-----
+# :two: Webpack Configuration
+
 
 ```javascript
 module.exports = {
@@ -37,13 +36,16 @@ module.exports = {
 }
 ```
 
-#Running 
-----
+# :three: Running 
+
+
 Terminal 1 
 > nodemon
 
 Terminal 2
 > webpack **-w** **-d** 
+
+:information_source:
 
 ``-w `` : watch for changes 
 
