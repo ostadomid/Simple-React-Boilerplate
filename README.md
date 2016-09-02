@@ -1,7 +1,5 @@
-# Simple-React-Boilerplate
-
 #Instructions from scratch : 
-
+---
 
 
 >npm i --save     ***express***   ***webpack***    ***react***    ***react-dom***
@@ -12,6 +10,7 @@
 
 
 #Webpack Configuration
+----
 
 ```javascript
 module.exports = {
@@ -39,6 +38,7 @@ module.exports = {
 ```
 
 #Running 
+----
 Terminal 1 
 > nodemon
 
